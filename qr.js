@@ -75,29 +75,29 @@ var randomItem = selectRandomItem(items);
                         let md = "SHABAN-MD~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*┏━━━━━━━━━━━━━━*
-*┃SHABAN-MD SESSION IS*
+*┃GAGA_MD SESSION IS*
 *┃SUCCESSFULLY*
 *┃CONNECTED ✅🔥*
 *┗━━━━━━━━━━━━━━━*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❶ || Creator = MR SHABAN⁴⁰👨🏻‍💻*
+*❶ || Creator = Lil GAGA👨🏻‍💻*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O
+*❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❸ || Owner =* https://wa.me/+923059395959
+*❸ || Owner =* https://wa.me/+2637168579999
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❹ || Repo =* https://github.com/MRSHABAN40/SHABAN-MD-V5
+*❹ || Repo =* https://github.com/LGT09/gaga09-xmd-wa-bot 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❺ || You Tube =* https://youtube.com/@mrshaban282?si=UzxrTKrBzDHa09a4
+*❺ || Contact =* https://wa.me/2637800781777
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*💙POWERD BY MR SHABAN⁴⁰💛*`;
+*💙POWERED BY Traxxion Inc Tech 💛*`;
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "MR SHABAN⁴⁰",
-thumbnailUrl: "https://i.ibb.co/RT2k3nHG/shaban-md.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O",
+title: "GAGA-MD",
+thumbnailUrl: "https://files.catbox.moe/hvljlp.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -107,29 +107,29 @@ renderLargerThumbnail: true
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
                             let desc = `*┏━━━━━━━━━━━━━━*
-*┃SHABAN-MD SESSION IS*
+*┃GAGA-MD SESSION IS*
 *┃SUCCESSFULLY*
 *┃CONNECTED ✅🔥*
 *┗━━━━━━━━━━━━━━━*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❶ || Creator = MR SHABAN⁴⁰👨🏻‍💻*
+*❶ || Creator = Lil GAGA 👨🏻‍💻*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O
+*❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❸ || Owner =* https://wa.me/+923059395959
+*❸ || Owner =* https://wa.me/+263716857999
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❹ || Repo =* https://github.com/MRSHABAN40/SHABAN-MD-V5
+*❹ || Repo =* https://github.com/LGT09/gaga09-xmd-wa-bot 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❺ || You Tube =* https://youtube.com/@mrshaban282?si=UzxrTKrBzDHa09a4
+*❺ || Contact =* https://wa.me/263780078177
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*💙POWERD BY MR SHABAN⁴⁰💛*`;
+*💙POWERED BY Lil GAGA💛*`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "MR SHABAN⁴⁰",
-thumbnailUrl: "https://i.ibb.co/RT2k3nHG/shaban-md.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O",
+title: "GAGA-MD",
+thumbnailUrl: "https://files.catbox.moe/hvljlp.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
