@@ -73,7 +73,7 @@ var randomItem = selectRandomItem(items);
                         const { upload } = require('./mega');
                         const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
-                        let md = "SHABAN-MD~" + string_session;
+                        let md = "GAGA-MD~" + string_session;
                         
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         
@@ -83,27 +83,27 @@ var randomItem = selectRandomItem(items);
     await sock.newsletterUnmute("120363421135776492@newsletter");   
     await sock.newsletterFollow("120363315182578784@newsletter");             
                         let desc = `*┏━━━━━━━━━━━━━━*
-*┃SHABAN-MD SESSION IS*
+*┃GAGA-MD SESSION IS*
 *┃SUCCESSFULLY*
 *┃CONNECTED ✅🔥*
 *┗━━━━━━━━━━━━━━━*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❶ || Creator = MR SHABAN⁴⁰👨🏻‍💻*
+*❶ || Creator = Lil GAGA👨🏻‍💻*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O
+*❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❸ || Owner =* MR SHABAN⁴⁰
+*❸ || Owner =* Lil GAGA
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❹ || Repo =* https://github.com/MRSHABAN45/SHABAN-MD
+*❹ || Repo =* https://github.com/LGT09/gaga09-xmd-wa-bot 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❺ || You Tube =* https://youtube.com/@mrshaban282?si=UzxrTKrBzDHa09a4
+*❺ || Contact =* https://wa.me.263716857999
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*POWERD BY MR SHABAN⁴⁰*`; 
+*POWERD BY Traxxion Inc Tech*`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "MR SHABAN⁴⁰",
+title: "GAGA-MD",
 thumbnailUrl: "https://i.ibb.co/RT2k3nHG/shaban-md.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O",
 mediaType: 1,
@@ -115,22 +115,22 @@ renderLargerThumbnail: true
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
                             let desc = `*┏━━━━━━━━━━━━━━*
-*┃SHABAN-MD SESSION IS*
+*┃GAGA-MD SESSION IS*
 *┃SUCCESSFULLY*
 *┃CONNECTED ✅🔥*
 *┗━━━━━━━━━━━━━━━*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❶ || Creator = MR SHABAN⁴⁰👨🏻‍💻*
+*❶ || Creator = Lil GAGA*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O
+*❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❸ || Owner =* MR SHABAN⁴⁰
+*❸ || Owner =* Lil GAGA 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❹ || Repo =* https://github.com/MRSHABAN45/SHABAN-MD
+*❹ || Repo =* https://github.com/LGT09/gaga09-xmd-wa-bot 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❺ || You Tube =* https://youtube.com/@mrshaban282?si=UzxrTKrBzDHa09a4
+*❺ || Contact =* https://wa.me/263716857999
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*POWERD BY MR SHABAN⁴⁰*`;
+*POWERD BY Traxxion Inc Tech*`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
