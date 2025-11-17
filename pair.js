@@ -104,8 +104,8 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "GAGA-MD",
-thumbnailUrl: "https://i.ibb.co/RT2k3nHG/shaban-md.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O",
+thumbnailUrl: "https://files.catbox.moe/hvljlp.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -136,8 +136,8 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "MR SHABAN⁴⁰",
-thumbnailUrl: "https://i.ibb.co/RT2k3nHG/shaban-md.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O",
+thumbnailUrl: "https://files.catbox.moe/hvljlp.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
