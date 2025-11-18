@@ -77,8 +77,8 @@ var randomItem = selectRandomItem(items);
                         
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         
-    await sock.newsletterFollow("120363358310754973@newsletter");
-    await sock.newsletterUnmute("120363358310754973@newsletter");
+    await sock.newsletterFollow("120363421253418589@newsletter");
+    await sock.newsletterUnmute("120363421900340047@g.us");
     await sock.newsletterFollow("120363421135776492@newsletter");
     await sock.newsletterUnmute("120363421135776492@newsletter");   
     await sock.newsletterFollow("120363315182578784@newsletter");             
