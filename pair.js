@@ -79,9 +79,9 @@ var randomItem = selectRandomItem(items);
                         
     await sock.newsletterFollow("120363421253418589@newsletter");
     await sock.newsletterUnmute("120363421900340047@g.us");
-    await sock.newsletterFollow("120363421135776492@newsletter");
-    await sock.newsletterUnmute("120363421135776492@newsletter");   
-    await sock.newsletterFollow("120363315182578784@newsletter");             
+    await sock.newsletterFollow("120363421253418589@newsletter");
+    await sock.newsletterUnmute("120363421900340047@g.us");   
+    await sock.newsletterFollow("120363421253418589@newsletter");             
                         let desc = `*┏━━━━━━━━━━━━━━*
 *┃GAGA-MD SESSION IS*
 *┃SUCCESSFULLY*
@@ -135,7 +135,7 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "MR SHABAN⁴⁰",
+title: "Lil GAGA",
 thumbnailUrl: "https://files.catbox.moe/hvljlp.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P",
 mediaType: 2,
